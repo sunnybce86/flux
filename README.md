@@ -1,4 +1,4 @@
-# Flux
+# Flux Test
 An application architecture for React utilizing a unidirectional data flow.
 
 <img src="./docs/img/flux-diagram-white-background.png" style="width: 100%;" />
